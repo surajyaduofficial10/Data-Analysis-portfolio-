@@ -1,0 +1,6 @@
+Patient_ID,Name,Age,Gender,Blood_Type,Medical_Condition,Date_of_Admission,Doctor,Hospital,Insurance_Provider,Billing_Amount,Admission_Type
+1,"Aarav Sharma",35,Male,O+,Cancer,2024-01-10,"Dr. Mehta","City Hospital","HDFC ERGO",250000.00,Emergency
+2,"Priya Singh",28,Female,A+,Asthma,2024-01-12,"Dr. Verma","Metro Clinic","Star Health",45000.00,Elective
+3,"Rohan Gupta",52,Male,B+,Diabetes,2024-01-15,"Dr. Mehta","City Hospital","Care Health",120000.00,Urgent
+4,"Neha Patel",41,Female,AB-,Hypertension,2024-01-18,"Dr. Joshi","Apollo Care","HDFC ERGO",85000.00,Emergency
+5,"Vikram Verma",60,Male,O-,Arthritis,2024-01-20,"Dr. Verma","Metro Clinic","Star Health",95000.00,Elective
