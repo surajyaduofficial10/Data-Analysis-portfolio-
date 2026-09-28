@@ -1,0 +1,7 @@
+Transaction_ID,Date,Department,Category,Sub_Category,Amount,Payment_Method
+101,2024-02-01,Sales,Revenue,"Product Sales",450000.00,"Bank Transfer"
+102,2024-02-03,Marketing,Expense,"Digital Ads",65000.00,"Credit Card"
+103,2024-02-05,"IT & Operations",Expense,"Software Licenses",40000.00,"Bank Transfer"
+104,2024-02-10,Sales,Revenue,"Consulting Services",180000.00,"Bank Transfer"
+105,2024-02-12,HR,Expense,Salaries,120000.00,"Bank Transfer"
+106,2024-02-15,Operations,Expense,"Office Rent & Utilities",55000.00,"Direct Debit"
